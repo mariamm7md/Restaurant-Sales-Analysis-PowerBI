@@ -38,3 +38,13 @@ Customer Behavior: Identifying top customers and rating patterns.
 Product Analysis: Identifying best-selling categories like "Grills" and "Tajine".
 
 Advanced UI: Integrated Drill-through and Custom Tooltips for detailed customer metrics.
+
+
+🔗 Project & Links:
+Due to the large file size of the Power BI dashboard (241 MB), you can find the .pbix file, dataset, and full Databricks analysis in the links below:
+
+GitHub Repository (Source Code): https://github.com/mariamm7md/Restaurant-Sales-Analysis-PowerBI
+
+Full Project Files (Google Drive): https://drive.google.com/drive/folders/1sRzQAa7KLltaA-3Fvs2uyNoHwRgXP3IV?usp=drive_link
+
+Databricks Notebook: https://dbc-c795375c-ca10.cloud.databricks.com/editor/notebooks/2202222484051880?o=7474655079869491
